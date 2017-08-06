@@ -1,0 +1,19 @@
+{
+  "name": "inventory-management-system",
+  "version": "1.0.0",
+  "description": "Simple invetory management system make with HTML & Bootstrap Running on NodeJS server using MYSQL as Databse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nijeesh4all/Inventory-Management-System.git"
+  },
+  "author": "Nijeesh Joshy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nijeesh4all/Inventory-Management-System/issues"
+  },
+  "homepage": "https://github.com/nijeesh4all/Inventory-Management-System#readme"
+}
